@@ -1,0 +1,2 @@
+we have tried cloning this repo with the help of pat which is personal access token.
+developer settings -> pat -> token classic -> generate new token (classic) -> provide all access of the repo.
